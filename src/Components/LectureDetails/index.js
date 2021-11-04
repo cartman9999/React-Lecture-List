@@ -17,7 +17,7 @@ const LectureDetails = () => {
     }
 
     return (
-        <div className="blog-details">
+        <div className="lecture-details">
             { isPending && <div>Loading...</div>}
             { error && <div>{ error }</div>}
             { lecture && (

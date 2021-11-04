@@ -1,0 +1,11 @@
+{
+  "lectures": [
+    {
+      "title": "Learn to draw",
+      "body": "Youtube free course on how to learn sketch drawing",
+      "classification": "Entretainment",
+      "urlLink": "https://www.youtube.com/watch?v=5Zc1xVS_X7Q&ab_channel=SchaeferArt",
+      "id": 1
+    }
+  ]
+}
